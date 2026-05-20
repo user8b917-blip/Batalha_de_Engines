@@ -2,6 +2,8 @@
 
 Script compacto para partidas automáticas entre engines de xadrez usando python-chess e Stockfish.
 
+Inspirado em https://github.com/p93729j-tech/Stockfish-vs-Stockfish-colab
+
 ## Recursos
 
 - Duas engines independentes
